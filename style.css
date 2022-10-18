@@ -1,0 +1,87 @@
+body{
+    width: 90%;
+    height: 90%;
+    margin: 10px;;
+    padding:0;
+    font-family:sans-serif;
+    background-image: url(background.png);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.signupform{
+    width: 300px;
+    height: 520px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 3);
+    background:#fff;
+    padding: 20px;
+    margin: 3% auto 0;
+    text-align: center;
+
+}
+.signupform h1{
+    color: blue;
+    margin-bottom: 30px;
+    text-decoration: solid;
+    text-shadow: 10px;
+    margin-top: -15;
+}
+.recover {
+    text-align: right;
+}
+.inputbox{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 80%;
+    border: 1px solid #999;
+    outline:none;
+    box-shadow: 0 0 10px rgb(59, 39, 151);
+}
+button{
+    color: blanchedalmond;
+    width: 80%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+}
+.signupbtn{
+    background-color: darkmagenta;
+    width: 95%;
+    
+    
+}
+.loginbtn{
+    background-color: darkmagenta;
+    width: 95%;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+img{
+    width: 70px;
+    margin-top: -50;
+}
+.social {
+    margin: 30px auto;
+    text-align: center;
+    margin-top: 0%;
+
+}
+.social img{
+    width: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
